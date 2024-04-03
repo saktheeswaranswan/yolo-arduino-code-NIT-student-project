@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/saktheeswaranswan/yolov5-speed-breaker-detection-driver-alert-system
+
+
+https://github.com/AlexeyAB/darknet
